@@ -1,3 +1,5 @@
+### N-BODY SIMULATION
+
 # REQUIREMENTS
 To run the N-body simulation and view the included figures, you need:
 
@@ -5,6 +7,7 @@ To run the N-body simulation and view the included figures, you need:
 
 # SETUP
   Download the latest release and open the file in an IDE of your choice
+
   
   Install the required dependencies:
      
