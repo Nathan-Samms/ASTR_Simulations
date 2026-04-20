@@ -8,9 +8,9 @@ To run the N-body simulation and view the included figures, you need:
   
   Install the required dependencies:
      
-     ```bash
-       pip install -r dependencies.txt
-     ```
+  ```bash
+  pip install -r dependencies.txt
+  ```
      
 # Customization
 
