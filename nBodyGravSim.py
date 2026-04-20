@@ -3,10 +3,6 @@ import pygame
 
 windowSizes = {'720p':(1280,720), '1080p':(1920,1080), '1440p':(2560,1440), '1600p':(2560,1600), '900p':(1600,900)}
 
-
-#Window Txt
-
-
 class body:
     def __init__(self, colors:list[tuple], positions:list, masses:list[int], velocities:list, G:float, boundaryCollisions=False):
         self.colors = colors
